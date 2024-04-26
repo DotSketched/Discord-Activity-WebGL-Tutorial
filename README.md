@@ -1,3 +1,5 @@
+# Discord Activity Unity WebGL Multiplayer Game Setup
+
 This project is to help people kick off a Discord Activity for a Unity WEBGL multiplayer game
 
 Please watch the Youtube video related to this video: Link
